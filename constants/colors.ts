@@ -1,0 +1,26 @@
+export const Colors = {
+  background: '#F5EFE6',
+  card: '#FFFFFF',
+  primary: '#1A3636',
+  primaryLight: '#40534C',
+  secondary: '#677D6A',
+  accent: '#D6BD98',
+  textDark: '#1A3636',
+  textMedium: '#40534C',
+  textLight: '#677D6A',
+  border: '#D6BD98',
+  inputBg: '#FDFAF6',
+  divider: '#E8DDD0',
+  status: {
+    primljeno: '#2563EB',
+    u_izradi: '#D97706',
+    gotovo: '#16A34A',
+    poslato: '#52525B',
+  },
+  statusBg: {
+    primljeno: '#DBEAFE',
+    u_izradi: '#FEF3C7',
+    gotovo: '#DCFCE7',
+    poslato: '#E4E4E7',
+  },
+};
