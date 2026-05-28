@@ -16,7 +16,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/icon.png",
+        "foregroundImage": "./assets/icon.jpg",
         "backgroundColor": "#FFFFFF"
       },
       "permissions": [
@@ -31,7 +31,7 @@
       "bundler": "metro"
     },
     "splash": {
-      "image": "./assets/logo.jpg",
+      "image": "./assets/icon.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#FFFFFF"
     },
@@ -48,7 +48,7 @@
         "expo-splash-screen",
         {
           "backgroundColor": "#FFFFFF",
-          "image": "./assets/logo.jpg",
+          "image": "./assets/icon.jpg",
           "imageWidth": 220
         }
       ],
